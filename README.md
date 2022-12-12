@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently busy Upskilling myself.<br><br>🌱 I’m learning everything nowadays :)<br><br>💻 You can ask me about related to Software Dev, Website Dev and some associated technologies.<br>👨‍💻 All of my projects are available at avnishsingh0.github.io/<br>📫 How to reach me avnishbdp@gmail.com<br><br>
+🔭 Currently busy Upskilling myself.<br><br>🌱 I’m learning everything nowadays :)<br><br>💻 You can ask me about related to Software Dev, Website Dev and some associated technologies.<br>/<br>📫 How to reach me avnishbdp@gmail.com<br><br>
 
 
 ## 🌐 Socials:
