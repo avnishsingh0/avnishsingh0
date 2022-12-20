@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Anju Tewatia</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 # 💫 About Me:
 🔭 Currently busy Upskilling myself.<br><br>🌱 I’m learning everything nowadays :)<br><br>💻 You can ask me about related to Software Dev, Website Dev and some associated technologies.<br><br>📫 How to reach me avnishbdp@gmail.com<br><br>
 
