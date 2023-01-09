@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avnish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India.<br/> I can provide clean code and pixel perfect design.</h3>
 
 # 💫 About Me:
 🔭 Currently busy Upskilling myself.<br><br>🌱 I’m learning everything nowadays :)<br><br>💻 You can ask me about related to Software Dev, Website Dev and some associated technologies.<br><br>📫 How to reach me avnishbdp@gmail.com<br><br>
