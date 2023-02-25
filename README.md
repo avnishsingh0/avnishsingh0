@@ -16,7 +16,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avnishsingh0&hide_border=true&theme=radical" />
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=avnishsingh0&icon=2&color=1)](https://visitcount.itsvg.in)
+---[![](https://visitcount.itsvg.in/api?id=gaurav62472744&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
