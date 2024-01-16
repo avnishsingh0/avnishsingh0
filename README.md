@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India.<br/> I can provide clean code and pixel perfect design.</h3>
 
 # 💫 About Me:
-🔭 Currently busy Upskilling myself.<br><br>🌱 I’m learning everything nowadays :)<br><br>💻 You can ask me about related to Software Dev, Website Dev and some associated technologies.<br><br>📫 How to reach me https://avnishsingh0.github.io/<br><br>
+🔭 Currently busy Upskilling myself.<br><br>🌱 I’m learning everything nowadays :)<br><br>💻 You can ask me about related to Software Dev, Website Dev and some associated technologies.<br><br>📫 How to reach me https://avnish-portfolio.vercel.app<br><br>
 
 
 ## 🌐 Socials:
